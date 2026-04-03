@@ -2,7 +2,7 @@
 Summary:	A JavaScript implementation of the 'which' command
 Name:		nodejs-%{pkg}
 Version:    1.0.5
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 URL:		https://github.com/isaacs/node-which
